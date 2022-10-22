@@ -31,6 +31,11 @@ export const LeftContainer = styled.div`
         li {
             margin-left: 2rem;
         }
+
+        a {
+            text-decoration: none;
+            color: white
+        }
     }
 `;
 
